@@ -26,7 +26,7 @@
                             <tr class="font-thai text-[20px] text-[#fff] bg-deepblue">
                                 <th class="w-1/6 px-4 py-2">คำโคราช</th>
                                 <th class="w-2/6">คำอ่าน</th>
-                                <th class="w-3/6">ความหมาย</th>
+                                <th class="w-3/6">ความมาย</th>
                                 <th class="w-1/6">เสียง</th>
                             </tr>    
                         </thead>   
